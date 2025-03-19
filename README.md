@@ -15,5 +15,5 @@ git clone https://github.com/asur2103/asursubdomain.git
 cd asursubdomain
 chmod + asur_recone.py  
 
-Usage 
+#Usage 
 python3 example.com -w /usr/share/wordlist.txt
