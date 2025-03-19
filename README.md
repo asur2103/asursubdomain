@@ -12,7 +12,7 @@ Output Options: Saves results in a structured format (JSON, CSV, or TXT).
 # Installation 
 git clone https://github.com/asur2103/asursubdomain.git
 
-cd asursubdomain
+cd asursubdomain\n
 chmod + asur_recone.py  
 
 #Usage 
